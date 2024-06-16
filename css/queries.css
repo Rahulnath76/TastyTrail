@@ -150,6 +150,7 @@
     pointer-events: auto;
     visibility: visible;
     transform: translateX(0);
+    z-index: 100;
   }
 
   .nav-open .icon-mobile-nav[name="close-outline"] {
